@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6548ed3b47a1f382b72aaf5c"
+  },
+  "Description": "A data analyst analyses data sets to find ways to solve problems \nrelating to a business's customers. A data analyst also communicates\n this information to management and other stakeholders. The role of \na data analyst can be defined as someone who has the knowledge and \nskills to turn raw data into information and insight, which can be \nused to make business decisions.",
+  "Job_Role": "Data Analyst",
+  "Material_Type": "Vidoes,Books",
+  "Skills_Required": "Python,SQL,Power Bi,Execl",
+  "Link": "https://drive.google.com/drive/folders/1UNX957erUgu-5tq-h-8m6CKQkZwlLp01?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "654d1a1617fb8613b9b8d635"
+  },
+  "Description": "A Data Scientist is a professional who collects large amounts of data using analytical, statistical, and programmable skills. It is their responsibility to use data to develop solutions tailored to meet the organisation's unique needs.",
+  "Job_Role": "Data Scientist",
+  "Material_Type": "Vidoes,Books",
+  "Skills_Required": "Python or R, SQL, Machine Learning, Deep Leaning, Tableau, Power Bi",
+  "Link": "https://drive.google.com/drive/folders/1TK-m2IPJoGoDIQxEFc_DuzyVELomM49h?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "654d1a8417fb8613b9b8d636"
+  },
+  "Description": "Software developers design, program, build, deploy and maintain software using many different skills and tools. They also help build software systems that power networks and devices and ensure that those systems remain functional. Their job may also involve meeting with clients to determine the needs for a software solution, which will help them design the final product.",
+  "Job_Role": "Software Developer",
+  "Material_Type": "Vidoes,Books",
+  "Skills_Required": "C++ or Java, Git, SQL, DSA",
+  "Link": "https://drive.google.com/drive/folders/1UxJujztG83NMK2ZE_wSUPijqHkHkG6MZ?usp=drive_link"
+}]

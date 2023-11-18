@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "654d2450b6ac8e0b54357bd2"
+  },
+  "Job_Title": "Data Analyst",
+  "Description": "A data analyst analyses data sets to find ways to solve problems relating to a \nbusiness's customers. A data analyst also communicates this information to \nmanagement and other stakeholders. The role of a data analyst can be defined as\nsomeone who has the knowledge and skills to turn raw data into information and \ninsight, which can be used to make business decisions.",
+  "Skills_Required": "Python or R, SQL, Excel, VBA, Jupyter Nootbooks, Tableau, Power Bi",
+  "Expected_salary": "10-20 lpa"
+},
+{
+  "_id": {
+    "$oid": "654d2512b6ac8e0b54357bd3"
+  },
+  "Job_Title": "Data Scientist",
+  "Description": "A Data Scientist is a professional who collects large amounts of data using analytical, statistical, and programmable skills. It is their responsibility to use data to develop solutions tailored to meet the organisation's unique needs.",
+  "Skills_Required": "Python or R, SQL, Machine Learning, Deep Leaning, Tableau, Power Bi",
+  "Expected_salary": "12-25 lpa"
+},
+{
+  "_id": {
+    "$oid": "654d2549b6ac8e0b54357bd4"
+  },
+  "Job_Title": "Software Developer",
+  "Description": "Software developers design, program, build, deploy and maintain software using many different skills and tools. They also help build software systems that power networks and devices and ensure that those systems remain functional. Their job may also involve meeting with clients to determine the needs for a software solution, which will help them design the final product.",
+  "Skills_Required": "C++ or Java, Git, SQL, DSA",
+  "Expected_salary": "8-25 lpa"
+}]
