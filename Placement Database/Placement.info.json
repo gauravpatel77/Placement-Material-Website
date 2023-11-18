@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "654775af390450dcaa1883e5"
+  },
+  "Name": "Gaurav Patel",
+  "Rollno": 205223010,
+  "Speciliazation": "Data Analytics",
+  "Semester": "1st",
+  "Interested_Roles": "Data Analyst"
+},
+{
+  "_id": {
+    "$oid": "6556d9f6aa387ff913e8f924"
+  },
+  "Name": "Mukesh Jha",
+  "Rollno": 205223018,
+  "Speciliazation": "Data Analytics",
+  "Semester": "1st",
+  "Interested_Roles": "SDE"
+},
+{
+  "_id": {
+    "$oid": "6556da1baa387ff913e8f925"
+  },
+  "Name": "Chirag Harvani",
+  "Rollno": 205223005,
+  "Speciliazation": "Data Analytics",
+  "Semester": "1st",
+  "Interested_Roles": "Data Scientist"
+}]

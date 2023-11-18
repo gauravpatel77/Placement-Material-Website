@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6547777a390450dcaa1883e9"
+  },
+  "email": "250223010@nitt.edu",
+  "password": "205Gaurav"
+},
+{
+  "_id": {
+    "$oid": "65546246b93fc26d6aeaba4c"
+  },
+  "email": "205223018@nitt.edu",
+  "password": "205223018"
+}]
